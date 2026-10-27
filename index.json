@@ -1,0 +1,30 @@
+[
+  {
+    "id": "L104",
+    "cluster": "c29 工具语义",
+    "name": "契约漂移检测",
+    "dir": "L104-tool-contract-drift",
+    "loc": 61
+  },
+  {
+    "id": "L105",
+    "cluster": "c29 工具语义",
+    "name": "超时语义",
+    "dir": "L105-timeout-semantics",
+    "loc": 36
+  },
+  {
+    "id": "L106",
+    "cluster": "c29 工具语义",
+    "name": "结果新鲜度",
+    "dir": "L106-result-freshness",
+    "loc": 32
+  },
+  {
+    "id": "L107",
+    "cluster": "c29 工具语义",
+    "name": "重试退避策略",
+    "dir": "L107-retry-backoff-policy",
+    "loc": 36
+  }
+]
